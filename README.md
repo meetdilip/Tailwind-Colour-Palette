@@ -5,5 +5,8 @@ It is a .gpl file which you can use with Inkscape and GIMP to get Tailwind CSS' 
 
 Source : https://tailwindcss.com/docs/customizing-colors   
 
+Taiwind CSS has recently updated their default colours. I have updated the palette accordingly
+
   
-![Tailwind CSS colours](https://user-images.githubusercontent.com/6965443/132427641-815cbdf8-8d94-4ebb-b296-dd2caa6816f6.png)
+
+![Tailwind colours Dec 2022](https://user-images.githubusercontent.com/6965443/211227327-6f198f74-b7dc-4f3a-bbe9-a065f51fac0a.png)
